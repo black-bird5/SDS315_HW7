@@ -61,11 +61,11 @@ If we were to repeat this experiment a large number of times, then we would expe
 
 ### **Part E**
 
-The standard error calculated above represents how much variance we would expect in the difference of proportions between male and female students who fold their left arm on top across different random samples.
+The standard error calculated above represents how much variance we would expect in the difference of proportions between male and female students who fold their left arm on top across different random samples. The value of the standard error measures how precise our estimate is, where a smaller value means we are more confident that our sample proportion is closer to the true population proportion.
 
 ### **Part F**
 
-The sampling distribution in this context refers to the distribution of the difference of proportions between male and female students who fold their left arm on top if we repeated this experiment across different random samples. 
+The sampling distribution in this context refers to the distribution of the difference of proportions between male and female students who fold their left arm on top if we repeated this experiment across different random samples. The sample proportions varies from sample to sample due to natural random variation while the true population proportions stays fixed in all of them.
 
 ### **Part G**
 
@@ -73,7 +73,7 @@ The Central Limit Theorem justifies using a normal distribution to approximate t
 
 ### **Part H**
 
-Since there is not any statistically significant difference in the proportion of people who fold their left arm on top based on sex at a 95% confidence level (since 0 is contained in the interval), we cannot rule out the possibility that there is no difference between the proportion of male and female students who fold their left arm on top. However, because the interval is skewed so heavily in the positive direction, it's plausible that the true difference in the proportion of people who fold their left arm on top based on sex could be as high as 0.3. This suggests there might be a possible practically significant difference in the proportion of male and female students who fold their left arm on top. 
+Since there is not any statistically significant difference in the proportion of people who fold their left arm on top based on sex at a 95% confidence level (since 0 is contained in the interval), we cannot rule out the possibility that there is no difference between the proportion of male and female students who fold their left arm on top. However, because the interval is skewed so heavily in the positive direction, it's possible that the true difference in the proportion of people who fold their left arm on top based on sex could be as high as 0.3. This suggests there might be a possible practically significant difference in the proportion of male and female students who fold their left arm on top. 
 
 ### **Part I**
 
